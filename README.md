@@ -34,7 +34,7 @@ Folders will be updated as new episodes are released.
 
 ## ▶️ YouTube Playlist
 Watch the full tutorial series here:  
-**[YouTube Playlist Link]**
+https://youtube.com/playlist?list=PL8WHfIxTWTXMmkSdgejQDbJSC0Ta1nl2_&si=Kn3Lh4q2-jx3yti4
 
 (Episode links will be added as they are published.)
 
